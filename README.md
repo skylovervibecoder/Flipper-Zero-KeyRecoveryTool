@@ -5,6 +5,13 @@ Flipper Zero apps that helps recover and backup MIFARE keys from existing dump t
 
 Created by **Marcopiiit**.
 
+Quick guide 
+
+1 use Start to scan a dump and the app will show which keys are found or not found in which database and will save a copy of the scan in the log.
+If some keys are not found a copy of those keys will also be present in CACHE section.
+
+2 To check the NOT FOUND keys use the CACHE section. In this section you can Import to user database the keys found in the scan that are not present in any database. The app will not Import the keys if duplicates are present.
+
 ## Features
 
 - **Start** — Select and scan an `.nfc` dump file.
