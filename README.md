@@ -8,7 +8,7 @@ Created by **Marcopiiit**.
 Quick guide 
 
 1 use Start to scan a dump and the app will show which keys are found or not found in which database and will save a copy of the scan in the LOG section.
-If some keys are not found in any of the databse a copy of those keys will be done in CACHE section.
+If some keys are not found in any of the database, a copy of those keys will be done in CACHE section.
 
 2 To check the NOT FOUND keys use the CACHE section. In this section you can Import to user database the keys found in the scan that are not present in any database. The app will not Import the keys if duplicates are present.
 
