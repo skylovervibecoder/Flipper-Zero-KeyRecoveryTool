@@ -12,6 +12,10 @@ If some keys are not found in any of the database, a copy of those keys will be 
 
 2 To check the NOT FOUND keys use the CACHE section. In this section you can Import to user database the keys found in the scan that are not present in any database. The app will not Import the keys if duplicates are present.
 
+SMART LOGIC:
+
+IF SOME KEYS ARE NOT FOUND IN ANY OF THE DB THE APP WILL WARN ON TOP OF THE DATABASE SO YOU DO NOT HAVE TO READ THE ENTIRE LOG.
+
 ## Features
 
 - **Start** — Select and scan an `.nfc` dump file.
