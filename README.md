@@ -1,7 +1,7 @@
 # Flipper-Zero-KeyRecoveryTool
 Flipper Zero apps that helps recover and backup MIFARE keys from existing dump to user dictionary.
 
-**KeyTool** is a Flipper Zero application for Momentum firmware that scans MIFARE Classic NFC dump files and checks whether their keys are present in the NFC dictionaries detected on the device (main and user) and in the cache section you can import in the user dictionary the keys missing in both.
+**KeyTool** is a Flipper Zero application for Momentum firmware that scans MIFARE NFC dump files and checks whether their keys are present in the NFC dictionaries detected on the device (main and user) and in the cache section you can import in the user dictionary the keys missing in both.
 
 Created by **Marcopiiit**.
 
